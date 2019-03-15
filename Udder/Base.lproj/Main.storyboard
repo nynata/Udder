@@ -32,8 +32,8 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="milkimage" translatesAutoresizingMaskIntoConstraints="NO" id="1JA-ak-rfa">
-                                <rect key="frame" x="67" y="287" width="240" height="128"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="cowimage" translatesAutoresizingMaskIntoConstraints="NO" id="1JA-ak-rfa">
+                                <rect key="frame" x="67" y="287" width="240" height="198"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             </imageView>
                         </subviews>
@@ -43,9 +43,10 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
+            <point key="canvasLocation" x="96.799999999999997" y="32.833583208395808"/>
         </scene>
     </scenes>
     <resources>
-        <image name="milkimage" width="146.8800048828125" height="97.44000244140625"/>
+        <image name="cowimage" width="300" height="300"/>
     </resources>
 </document>
